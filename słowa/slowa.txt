@@ -1,0 +1,6 @@
+start
+stop
+lewo
+prawo
+przód
+tył
